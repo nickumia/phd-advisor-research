@@ -4,7 +4,8 @@
   "description": "A simple static site that organizes my search for a PhD advisor at FAU",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx @11ty/eleventy --formats=liquid,html,jpg,gif",
+    "serve": "npx @11ty/eleventy --serve"
   },
   "repository": {
     "type": "git",

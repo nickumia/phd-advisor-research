@@ -1,1 +1,21 @@
-<!doctype html><title>Page title</title><p>Hi</p>
+---
+title: This is where it starts
+sections:
+  - Professors
+  - Research Papers
+  - Research Topics
+  - Stats (graduates, followers)
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>{{ title }}</title>
+</head>
+<body>
+	<h1>{{ title }}</h1>
+	{% for part in sections %}
+		<li>{{ part }}</li>
+	{% endfor %}
+</body>
