@@ -1,10 +1,13 @@
 ---
-title: This is where it starts
+title: An Analysis of Faculty + Research at FAU
 sections:
-  - Professors
+  - Faculty
   - Research Papers
   - Research Topics
   - Stats (graduates, followers)
+pagination:
+  data: faculty
+  size: 100
 ---
 
 <!doctype html>
@@ -15,7 +18,17 @@ sections:
 </head>
 <body>
 	<h1>{{ title }}</h1>
+  <ul>
 	{% for part in sections %}
 		<li>{{ part }}</li>
+    <ul>
+    {% if part == 'Faculty' %}
+    {%- for item in pagination.items %}
+      <li>{{ item.name }}</li>
+      <img src="{{ item.picture }}"/>
+    {% endfor -%}
+    {% endif %}
+    </ul>
 	{% endfor %}
+  </ul>
 </body>
