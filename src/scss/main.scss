@@ -3,6 +3,10 @@
 @import "@webpixels/css/components";
 @import "@webpixels/css/utilities";
 
+h1 {
+  text-align: center;
+}
+
 .jumbotron {
   padding-top: 48px;
   padding-bottom: 48px;
@@ -13,4 +17,5 @@
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  text-align: left;
 }
