@@ -29,7 +29,7 @@ text = BasicText(raw_interests)
 
 ## Get Baseline from Reference Corpus
 reference = occurences(text.getWords())
-high_rank = { k:v for k,v in reference.items() if v > 1 }
+high_rank = { k:v for k,v in reference.items() if v > 2 }
 postsanitize(high_rank)
 
 ## Determine which faculty share the same high ranking interests
@@ -57,3 +57,17 @@ for topic,people in connected_interests.items():
 
 print(len(high_rank.keys()))
 print(len(connected_interests.keys()))
+
+labels = []
+data = []
+for k,v in high_rank.items():
+    labels.append(k)
+    data.append(v)
+# labels = sorted(list(high_rank.keys()))
+
+with open('data/interest_labels.json', 'w') as fi:
+    json.dump(labels, fi, indent = 2)
+
+with open('data/interest_data.json', 'w') as di:
+    data_out = [{'data': data}]
+    json.dump(data_out, di, indent = 2)

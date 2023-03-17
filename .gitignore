@@ -3,3 +3,5 @@ node_modules
 .parcel-cache
 dist
 *.swp
+src/data/interest_data.json
+src/data/interest_labels.json
