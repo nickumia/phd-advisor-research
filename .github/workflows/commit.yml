@@ -17,5 +17,8 @@ jobs:
       - name: Install NPM dependencies
         shell: bash
         run: npm install
+      - name: Generate Chart Data
+        run: |
+          cd src/ && python faculty_analysis.py
       - name: Build
         run: npm run build
