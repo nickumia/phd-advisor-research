@@ -19,6 +19,7 @@ jobs:
         run: npm install
       - name: Generate Chart Data
         run: |
+          pip install -r requirements.txt
           cd src/ && python faculty_analysis.py
       - name: Build
         run: npm run build
