@@ -1,33 +1,9 @@
 ---
 title: An Analysis of Faculty + Research at FAU
+subtitle: Choose an Area to Explore Further!
 layout: base
-sections:
-  - Faculty
-  - Research Papers
-  - Research Topics
-  - Stats (graduates, followers)
 pagination:
   data: faculty
   size: 100
 ---
 
-<div class="container">
-  <canvas id="interestsOverlapChart"></canvas>
-</div>
-
-
-<div class="container">
-  <ul>
-	{% for part in sections %}
-  	<li>{{ part }}</li>
-    <ul>
-    {% if part == 'Faculty' %}
-      {%- for item in pagination.items %}
-        <li>{{ item.name }}</li>
-        <!-- <img src="{{ item.picture }}"/> -->
-      {% endfor -%}
-    {% endif %}
-    </ul>
-	{% endfor %}
-  </ul>
-</div>

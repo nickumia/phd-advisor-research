@@ -1,10 +1,18 @@
 
 from nlp.processing.inputs import BasicText
 from nlp.processing.corpus.representativeness import occurences
+from nltk.stem import WordNetLemmatizer
 import json
 
 exclude = ['and', 'of', 'for', 'to', 'in', 'the', 'ai', 'if', 'rf']
-
+# Create WordNetLemmatizer object
+wnl = WordNetLemmatizer()
+class blanklemma:
+    def __init__(self):
+        pass
+    def lemmatize(self, w):
+        return w
+# wnl = blanklemma()
 
 def presanitize(raw):
     raw.replace('AI', 'Artificial Intelligence')
@@ -23,12 +31,12 @@ with open('data/faculty.json', 'r') as ff:
 
 
 ## Create Reference Corpus
-raw_interests = ' '.join([instance for person in faculty for instance in person['interests']])
+raw_interests = ' '.join([wnl.lemmatize(instance) for person in faculty for instance in person['interests']])
 presanitize(raw_interests)
 text = BasicText(raw_interests)
 
 ## Get Baseline from Reference Corpus
-reference = occurences(text.getWords())
+reference = occurences([wnl.lemmatize(w) for w in text.getWords()])
 high_rank = { k:v for k,v in reference.items() if v > 2 }
 postsanitize(high_rank)
 
@@ -42,7 +50,8 @@ for person in faculty:
         text2 = BasicText(interests)
         unique = occurences(text2.getWords())
         postsanitize(unique)
-        for word in occurences(text2.getWords()).keys():
+        partials = occurences([wnl.lemmatize(w) for w in text2.getWords()])
+        for word in occurences(partials).keys():
             if word in connected_interests.keys():
                 connected_interests[word].append(person['name'])
     except KeyError:
@@ -71,3 +80,6 @@ with open('data/interest_labels.json', 'w') as fi:
 with open('data/interest_data.json', 'w') as di:
     data_out = [{'data': data}]
     json.dump(data_out, di, indent = 2)
+
+with open('data/connected_interests.json', 'w') as di:
+    json.dump(connected_interests, di, indent = 2)

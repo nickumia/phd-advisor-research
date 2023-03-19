@@ -3,7 +3,7 @@
 @import "@webpixels/css/components";
 @import "@webpixels/css/utilities";
 
-h1 {
+h1, h2 {
   text-align: center;
 }
 
@@ -17,5 +17,25 @@ h1 {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  text-align: left;
+  text-align: center;
+}
+
+@media (max-width: 400px) {
+  .card-columns {
+    column-count: 2;
+  }
+}
+@media (min-width: 401px) {
+  .card-columns {
+    column-count: 3;
+  }
+}
+@media (min-width: 800px) {
+  .card-columns {
+    column-count: 5;
+  }
+}
+
+.profile {
+  height: 150px;
 }

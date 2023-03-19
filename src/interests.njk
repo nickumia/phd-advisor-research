@@ -1,0 +1,29 @@
+---
+title: An Analysis of Faculty + Research at FAU
+subtitle: Lemmatized Overlap of Research Topics
+layout: base
+pagination:
+  data: connected_interests
+  size: 100
+---
+
+<div class="container">
+  <canvas id="interestsOverlapChart"></canvas>
+</div>
+
+
+<div class="container">
+  <ul>
+	{% for part in sections %}
+  	<li>{{ part }}</li>
+    <ul>
+    {% if part == 'Faculty' %}
+      {%- for item in pagination.items %}
+        <li>{{ item.name }}</li>
+        <!-- <img src="{{ item.picture }}"/> -->
+      {% endfor -%}
+    {% endif %}
+    </ul>
+	{% endfor %}
+  </ul>
+</div>

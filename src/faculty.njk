@@ -1,0 +1,23 @@
+---
+title: An Analysis of Faculty + Research at FAU
+subtitle: Faculty List
+layout: base
+pagination:
+  data: faculty
+  size: 100
+---
+
+
+<div class="container">
+  <p>This list is a statically managed and current as of 03/3023.  The faculty images are pulled dynamically from the <a href="https://www.fau.edu/engineering/eecs/directory/">official FAU Department of Electrical Engineering and Computer Science Site</a>.  The links attached to each faculty member are their best online presence that I could find at the time of writing as well.</p>
+  <p><i>P.S. Hover over the image to see the faculty member's name</i></p>
+  <br/>
+  <ul class="list-unstyled card-columns">
+    {%- for item in pagination.items %}
+      <span class="d-inline-block" tabindex="0" data-toggle="tooltip" title="{{ item.name }}">
+        <a href="{{ item.website }}"> <img src="{{ item.picture }}" class="profile"/> </a>
+      </span>
+      <br/>
+    {% endfor -%}
+  </ul>
+</div>
