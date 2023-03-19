@@ -74,12 +74,20 @@ for k,v in high_rank.items():
     data.append(v)
 # labels = sorted(list(high_rank.keys()))
 
-with open('data/interest_labels.json', 'w') as fi:
-    json.dump(labels, fi, indent = 2)
 
-with open('data/interest_data.json', 'w') as di:
+with open('data/interests.json', 'w') as di:
     data_out = [{'data': data}]
-    json.dump(data_out, di, indent = 2)
+    json.dump({'labels': labels, 'datasets': data_out}, di, indent = 2)
+
 
 with open('data/connected_interests.json', 'w') as di:
-    json.dump(connected_interests, di, indent = 2)
+    labels = []
+    data_out = []
+    for topic in connected_interests.keys():
+        # data_out.append({'topic': topic, 'people': ' | '.join(people)})
+        data_points = []
+        for person in connected_interests[topic]:
+            labels.append("%s - %s" % (topic, person))
+            data_points.append([int((1/high_rank[topic])*100)])
+        data_out.append({'data': data_points})
+    json.dump({'labels': labels, 'datasets': data_out}, di, indent = 2)

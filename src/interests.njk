@@ -10,20 +10,18 @@ pagination:
 <div class="container">
   <canvas id="interestsOverlapChart"></canvas>
 </div>
+<div class="container">
+  <canvas id="interestsPieChart"></canvas>
+</div>
 
 
 <div class="container">
   <ul>
-	{% for part in sections %}
-  	<li>{{ part }}</li>
     <ul>
-    {% if part == 'Faculty' %}
       {%- for item in pagination.items %}
-        <li>{{ item.name }}</li>
-        <!-- <img src="{{ item.picture }}"/> -->
+        <li>{{ item.topic }}</li>
+        <li>{{ item.people|length }}</li>
       {% endfor -%}
-    {% endif %}
     </ul>
-	{% endfor %}
   </ul>
 </div>
