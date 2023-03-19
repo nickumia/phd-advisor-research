@@ -74,6 +74,7 @@ for k,v in high_rank.items():
     data.append(v)
 # labels = sorted(list(high_rank.keys()))
 
+faculty_names = [person['name'] for person in faculty]
 
 with open('data/interests.json', 'w') as di:
     data_out = [{'data': data}]
@@ -81,13 +82,20 @@ with open('data/interests.json', 'w') as di:
 
 
 with open('data/connected_interests.json', 'w') as di:
-    labels = []
+    # data_out = [[0 for i in range(len(faculty_names))] for j in range(len(connected_interests.keys()))]
+    name_index = {k:i for i,k in enumerate(faculty_names)}
+    topic_index = {v:j for j,v in enumerate(connected_interests.keys())}
     data_out = []
+
     for topic in connected_interests.keys():
-        # data_out.append({'topic': topic, 'people': ' | '.join(people)})
-        data_points = []
         for person in connected_interests[topic]:
-            labels.append("%s - %s" % (topic, person))
-            data_points.append([int((1/high_rank[topic])*100)])
-        data_out.append({'data': data_points})
-    json.dump({'labels': labels, 'datasets': data_out}, di, indent = 2)
+            data_out.append({'y': topic, 'x': person, 'v': 21})
+    json.dump(data_out, di, indent = 2)
+
+with open('data/connected_interests_x.json', 'w') as di:
+    json.dump(faculty_names, di, indent = 2)
+with open('data/connected_interests_y.json', 'w') as di:
+    json.dump(list(connected_interests.keys()), di, indent = 2)
+
+print('# Of Topics: %s' % (len(connected_interests.keys())))
+print('# Of People: %s' % (len(faculty_names)))
