@@ -267,7 +267,7 @@
     "title": "Professor",
     "email": "erdol@fau.edu",
     "website": "https://faculty.eng.fau.edu/erdol/about/",
-    "picture": "https://www.fau.edu/engineering/directory/faculty/degiorgio/images/mike-degiorgio.jpg",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/erdol/images/erdol.jpg",
     "degrees": [
       { "type": "phd",
         "area": "electrical, electronics and communications of engineering",
@@ -288,7 +288,7 @@
     "title": "Professor and Director of NSF Research Center",
     "email": "bfurht@fau.edu",
     "website": "https://faculty.eng.fau.edu/bfurht/",
-    "picture": "https://www.fau.edu/engineering/directory/faculty/degiorgio/images/mike-degiorgio.jpg",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/furht/images/furht.jpg",
     "degrees": [
       { "type": "phd",
         "area": "electrical and computer engineering",
@@ -582,7 +582,7 @@
     "title": "Professor",
     "email": "pandya@fau.edu",
     "website": "https://www.fau.edu/engineering/directory/faculty/pandya/",
-    "picture": "https://www.fau.edu/engineering/directory/faculty/pados/images/pados.jpg",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/pandya/images/pandya.jpg",
     "degrees": [
       { "type": "phd",
         "area": "",
