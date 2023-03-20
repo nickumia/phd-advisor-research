@@ -1,0 +1,934 @@
+[
+  { "name": "Aalo, Valentine",
+    "title": "Professor",
+    "email": "aalo@fau.edu",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/aalo/images/aalo.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "electrical engineering",
+        "school": "southern illinois university"
+      },
+      { "type": "msc",
+        "area": "electrical engineering",
+        "school": "southern illinois university"
+      },
+      { "type": "bsc",
+        "area": "electrical engineering",
+        "school": "southern illinois university"
+      }
+    ],
+    "interests": ["Wireless Communications", "Statistical Decision Theory", "Satellite and Mobile Communication Systems", "Array Processing", "Radar Signal Processing"]
+  },
+  { "name": "Agarwal, Ankur",
+    "title": "Professor",
+    "email": "aagarwa2@fau.edu",
+    "website": "https://faculty.eng.fau.edu/ankur/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/agarwal/images/agarwal.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "computer engineering",
+        "school": "Florida Atlantic University"
+      },
+      { "type": "msc",
+        "area": "computer engineering",
+        "school": "Florida Atlantic University"
+      },
+      { "type": "bsc",
+        "area": "electrical + electronics engineering",
+        "school": "Pune university"
+      }
+    ],
+    "interests": ["Health & Medical Informatics System Design", "Embedded System Design", "Mobile Systems and Application Development", "MultiCore Architectures", "Real-Time System Design"]
+  },
+  { "name": "Alhalabi, Bassem",
+    "title": "Associate Professor",
+    "email": "alhalabi@fau.edu",
+    "website": "https://www.linkedin.com/in/bassem-alhalabi-6945327/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/alhalabi/images/alhalabi.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "computer engineering",
+        "school": "University of Louisiana at Lafayette"
+      },
+      { "type": "msc",
+        "area": "computer engineering",
+        "school": "University of Louisiana at Lafayette"
+      },
+      { "type": "bsc",
+        "area": "electrical engineering",
+        "school": "Purdue University"
+      }
+    ],
+    "interests": ["Embedded Systems", "Web-Based Controls and Automation", "Remote Labs and Distance Learning Technologies"]
+  },
+  { "name": "Asghar, Waseem",
+    "title": "Associate Professor",
+    "email": "wasghar@fau.edu",
+    "website": "https://faculty.eng.fau.edu/asghar/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/asghar/images/asghar.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "nano-biotechnology",
+        "school": "University of Texas at Arlington"
+      },
+      { "type": "bsc",
+        "area": "eletrical engineering",
+        "school": "University of Engineering and Technology, Lahore"
+      }
+    ],
+    "interests": ["Biosensors", "Microfluidics", "Point-of-Care Diagnostics", "Disease Detection"]
+  },
+  { "name": "Assis, Raquel",
+    "title": "Associate Professor, Joint Appointment and I-HEALTH Fellow",
+    "email": "rassis@fau.edu",
+    "website": "http://assisgroup.fau.edu/index.html",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/assis/images/photo-raquel-assis.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "bioinformatics",
+        "school": "university of michigan"
+      },
+      { "type": "bsc",
+        "area": "psychology + zoology",
+        "school": "University of Florida"
+      }
+    ],
+    "interests": []
+  },
+  { "name": "Azarderakhsh, Reza",
+    "title": "Associate Professor and I-SENSE Fellow",
+    "email": "razarderakhsh@fau.edu",
+    "website": "https://faculty.eng.fau.edu/azarderakhsh/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/azarderakhsh/images/azarderakhsh.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Computer Engineering",
+        "school": "Western University"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Cryptographic Engineering", "Elliptic Curve Cryptography", "Finite Field", "Post-Quantum Cryptography"]
+  },
+  { "name": "Bagby, Jonathan",
+    "title": "Associate Professor",
+    "email": "bagby@fau.edu",
+    "website": "https://www.linkedin.com/in/jonathan-bagby-0368114/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/bagby/images/bagby.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Electrical Engineering",
+        "school": "Michigan State University"
+      },
+      { "type": "msc",
+        "area": "Electrical Engineering",
+        "school": "Ohio State University"
+      },
+      { "type": "bsc",
+        "area": "Electrical Engineering",
+        "school": "Michigan State University"
+      }
+    ],
+    "interests": ["RF Circuits and Devices", "Numerical Electromagnetics", "Electromagnetic Scattering", "Guided Waves"]
+  },
+  { "name": "Batalama, Stella",
+    "title": "Dean and Professor",
+    "email": "sbatalama@fau.edu",
+    "website": "https://www.linkedin.com/in/stella-batalama-32406280/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/batalama/images/batalama.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Electrical Engineering",
+        "school": "University of Virginia"
+      },
+      { "type": "msc",
+        "area": "Computer Science and Engineering",
+        "school": "University of Patras"
+      },
+      { "type": "bsc",
+        "area": "Computer Science and Engineering",
+        "school": "University of Patras"
+      }
+    ],
+    "interests": ["Cognitive & Cooperative Communications & Networks", "Underwater Signal Processing", "Communications and Networks", "Small-sample-support Adaptive Filtering and Receiver Design", "Covert Communications and Steganography"]
+  },
+  { "name": "Bullard, Lofton",
+    "title": "University Instructor",
+    "email": "lbullard@fau.edu",
+    "website": "https://www.fau.edu/engineering/directory/faculty/bullard/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/bullard/images/bullard.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "",
+        "school": "Florida Atlantic University"
+      },
+      { "type": "msc",
+        "area": "computer engineering",
+        "school": "Florida Atlantic University"
+      },
+      { "type": "bsc",
+        "area": "computer science",
+        "school": "Florida International University"
+      }
+    ],
+    "interests": ["Software Complexity Modeling", "Software Reliability and Performance Modeling", "Data Mining and Machine Learning", "Visualization"]
+  },
+  { "name": "Cardei, Ionut",
+    "title": "Professor",
+    "email": "icardei@fau.edu",
+    "website": "https://www.linkedin.com/in/icardei/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/cardei-i/images/cardei-i.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "computer science",
+        "school": "University of Minnesota"
+      },
+      { "type": "msc",
+        "area": "computer science",
+        "school": "Politehnica University of Bucharest"
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Component-Based Software Design Automation", "Wireless Networking and Resource-Efficient", "Protocols for Constrained Networks", "Routing in Intermittent Wireless Ad hoc Networks"]
+  },
+  { "name": "Cardei, Mihaela",
+    "title": "Assoc. Dean for Graduate Studies and Professor",
+    "email": "mcardei@fau.edu",
+    "website": "https://www.fau.edu/engineering/eecs/faculty/mcardei/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/cardei-m/images/cardei-m.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "computer science",
+        "school": "University of Minnesota-Twin Cities"
+      },
+      { "type": "msc",
+        "area": "computer science",
+        "school": "University of Minnesota-Twin Cities"
+      },
+      { "type": "bsc",
+        "area": "computer science",
+        "school": "Politehnica University of Bucharest"
+      }
+    ],
+    "interests": ["Wireless Networking", "Wireless Sensor Networks", "Network Protocols and Algorithm Design", "Combinatorial Optimization in Wireless Networks"]
+  },
+  { "name": "De Groff, Dolores",
+    "title": "Associate Professor",
+    "email": "degroff@fau.edu",
+    "website": "https://www.fau.edu/engineering/directory/faculty/degroff/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/degroff/images/degroff.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "",
+        "school": "Florida Atlantic University"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Neural Networks", "Alternative Energy", "Information Theory", "Power Systems Control", "Radar Systems"]
+  },
+  { "name": "DeGiorgio, Michael",
+    "title": "Associate Professor",
+    "email": "mdegiorg@fau.edu",
+    "website": "http://degiorgiogroup.fau.edu/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/degiorgio/images/mike-degiorgio.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "bioinformatics",
+        "school": "University of Michigan"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "computer science + mathematics",
+        "school": "university of central florida"
+      }
+    ],
+    "interests": ["data science", "human, evolutionary, and computational genomics"]
+  },
+  { "name": "Erdol, Nurgun",
+    "title": "Professor",
+    "email": "erdol@fau.edu",
+    "website": "https://faculty.eng.fau.edu/erdol/about/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/erdol/images/erdol.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "electrical, electronics and communications of engineering",
+        "school": "University of Akron"
+      },
+      { "type": "msc",
+        "area": "electrical + electronics engineering",
+        "school": "Boğaziçi University"
+      },
+      { "type": "bsc",
+        "area": "electrical + electronics engineering",
+        "school": "Boğaziçi University"
+      }
+    ],
+    "interests": ["Digital Signal Processing", "Speech Processing", "Communications", "Wavelets"]
+  },
+  { "name": "Furht, Borko",
+    "title": "Professor and Director of NSF Research Center",
+    "email": "bfurht@fau.edu",
+    "website": "https://faculty.eng.fau.edu/bfurht/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/furht/images/furht.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "electrical and computer engineering",
+        "school": "University of Belgrade, Yugoslavia"
+      },
+      { "type": "msc",
+        "area": "Electrical and Computer Engineering",
+        "school": "University of Belgrade, Yugoslavia"
+      },
+      { "type": "bsc",
+        "area": "Electrical Engineering",
+        "school": "University of Belgrade, Yugoslavia"
+      }
+    ],
+    "interests": ["multimedia systems", "multimedia big data", "video coding and compression", "3D video and image systems", "wireless multimedia", "cloud computing", "social networks"]
+  },
+  { "name": "Ghoraani, Behnaz",
+    "title": "Associate Professor and I-SENSE Fellow",
+    "email": "bghoraani@fau.edu",
+    "website": "http://biomedsignal.com/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/ghoraani/images/ghoraani.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Electrical and Computer Engineering",
+        "school": "Ryerson University, Toronto, Canada"
+      },
+      { "type": "msc",
+        "area": "Electrical and Electronics Engineering",
+        "school": "Amirkabir University of Technology"
+      },
+      { "type": "bsc",
+        "area": "Electrical and Electronics Engineering",
+        "school": "Sharif University of Technology"
+      }
+    ],
+    "interests": ["Non-stationary Data Analytics", "Pattern Recognition and Information Retrieval", "Biomedical and Speech Signal Analysis", "Feature Extraction and Classification", "Time-frequency Signal Analysis", "Machine Learning and Classification"]
+  },
+  { "name": "Hallstrom, Jason O.",
+    "title": "Professor & Dir. I-SENSE",
+    "email": "jhallstrom@fau.edu",
+    "website": "https://ieeexplore.ieee.org/author/37267610700",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/hallstrom/images/hallstrom.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "computer and information science",
+        "school": "Ohio State University"
+      },
+      { "type": "msc",
+        "area": "computer and information science",
+        "school": "Ohio State University"
+      },
+      { "type": "bsc",
+        "area": "systems analysis",
+        "school": "Miami University"
+      }
+    ],
+    "interests": ["Embedded Network Systems", "Internet-scale Sensing Infrastructure", "The Internet of Things", "Computing Education"]
+  },
+  { "name": "Huang, Shihong",
+    "title": "Assoc. Dean for Faculty Affairs and Professor",
+    "email": "shihong@fau.edu",
+    "website": "https://faculty.eng.fau.edu/shihong/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/huang/images/huang.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "computer science",
+        "school": "University of California, Riverside"
+      },
+      { "type": "msc",
+        "area": "computer science",
+        "school": "University of California, Riverside"
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Reverse Engineering", "Program Comprehension", "Software Systems Redocumentation", "Software Visualization"]
+  },
+  { "name": "Ilyas, Mohammad",
+    "title": "Professor",
+    "email": "ilyas@fau.edu",
+    "website": "https://www.linkedin.com/in/mohammad-ilyas-7978a325/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/ilyas/images/ilyas.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Electrical Engineering",
+        "school": "Queen's University, Kingston, Ontario, Canada"
+      },
+      { "type": "msc",
+        "area": "Electrical and Electronic Engineering",
+        "school": "Shiraz University"
+      },
+      { "type": "bsc",
+        "area": "Electrical Engineering",
+        "school": "University of Engineering and Technology, Lahore, Pakistan"
+      }
+    ],
+    "interests": ["Wireless Communication Networks", "Sensor Networks and Smart Systems", "Healthcare Technologies", "Traffic Characterization and Traffic Management in High-speed Communication Networks", "Optical Networks", "Performance Modeling and Analysis", "Simulation", "Globalization and Higher Education"]
+  },
+  { "name": "Kalva, Hari",
+    "title": "Associate Chair and Professor",
+    "email": "hari.kalva@fau.edu",
+    "website": "https://www.cse.fau.edu/~hari/index.html",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/kalva/images/kalva.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "",
+        "school": "Columbia University"
+      },
+      { "type": "msc",
+        "area": "computer engineering",
+        "school": "florida atlantic university"
+      },
+      { "type": "btech",
+        "area": "Electronics and Communications EngineeringB. Tech, Electronics and Communications Engineering",
+        "school": " Sri Venkateswara UniversitySri Venkateswara University"
+      }
+    ],
+    "interests": ["Video Compression and Communication", "Video Transcoding", "Universal Multimedia Access", "Mobile Multimedia", "Multimedia Programming"]
+  },
+  { "name": "Khoshgoftaar, Taghi",
+    "title": "Motorola Professor",
+    "email": "khoshgof@fau.edu",
+    "website": "https://www.fau.edu/engineering/directory/faculty/khoshgoftaar/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/khoshgoftaar/images/taghi-k.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "",
+        "school": "Virginia Polytechnic Institute and State University"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Data Mining and Machine Learning", "Big Data Analytics", "Software Engineering", "Biomedical and Health Informatics", "Computer Security and Intrusion Detection Systems"]
+  },
+  { "name": "Liu, Feng-Hao",
+    "title": "Associate Professor",
+    "email": "fenghao.liu@fau.edu",
+    "website": "https://faculty.eng.fau.edu/fenghao/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/liu/images/liu.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Computer Science",
+        "school": "Brown University"
+      },
+      { "type": "msc",
+        "area": "Computer Science",
+        "school": "Brown University"
+      },
+      { "type": "bsc",
+        "area": "Electrical Engineering",
+        "school": "National Taiwan University, Taipei, Taiwan"
+      }
+    ],
+    "interests": ["Cryptography", "Theory of Computation", "Lattice-based Cryptography", "Fully Homomorphic Encryption (FHE)", "Multiparty computation", "Leakage and tamper resilient cryptography", "Post-quantum cryptography"]
+  },
+  { "name": "Mahgoub, Imadeldin",
+    "title": "Tecore Professor",
+    "email": "mahgoubi@fau.edu",
+    "website": "https://smc.eng.fau.edu/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/mahgoub/images/mahgoub.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "",
+        "school": "Pennsylvania State University"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Smart Mobile Computing", "Vehicular Networks", "Wireless Sensor Networks", "Intelligent Transportation Systems", "Smart Healthcare Technologies", "Parallel and Distributed Systems"]
+  },
+  { "name": "Marques, Oge",
+    "title": "Professor",
+    "email": "omarques@fau.edu",
+    "website": "https://www.linkedin.com/in/ogemarques/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/marques/images/marques.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "computer engineering",
+        "school": "Florida Atlantic University"
+      },
+      { "type": "msc",
+        "area": "eletronic engineering",
+        "school": "philips international institute"
+      },
+      { "type": "bsc",
+        "area": "eletrical engineering",
+        "school": "federal university of technology - parana"
+      }
+    ],
+    "interests": ["Artificial Intelligence in Medicine", "Medical Image Analysis", "Machine Learning", "Deep Learning", "Human and Computer Vision", "Human Computation", "Healthcare Technologies", "Mobile and Web-based App Development"]
+  },
+  { "name": "Neelakanta, Perambur S.",
+    "title": "Professor",
+    "email": "neelakan@fau.edu",
+    "website": "https://www.linkedin.com/in/perambur-s-neelakanta-b4850719/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/neelakanta/images/neelakanta.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "",
+        "school": "Indian Institute of Technology, Madras, India"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Microwave Systems, EM Field Theory & Antennas", "Neural Networks/Neural Complexity", "Radar and RF Communication Systems", "Electromagnetic Materials (Including Composite and Nano-structures)", "Next-generation Telecommunications (Wireline & Wireless)", "Internet Engineering and Related Technoeconomics", "Bioinformatics and Biomedical instrumentation", "RF COMOS VLSI Techniques"]
+  },
+  { "name": "Ni, Zhen",
+    "title": "Associate Professor",
+    "email": "zhenni@fau.edu",
+    "website": "https://www.fau.edu/engineering/directory/faculty/ni/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/ni/images/photo-zhen-ni.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "",
+        "school": "University of Rhode Island"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Computational/Artificial Intelligence and Machine Learning", "Reinforcement Learning and Adaptive Dynamic Programming", "Microgrid Energy Management Systems, Smart Home & Community", "Robot Navigation, Assistance and Interaction with Human"]
+  },
+  { "name": "Nojoumian, Mehrdad",
+    "title": "Associate Professor",
+    "email": "mnojoumian@fau.edu",
+    "website": "https://faculty.eng.fau.edu/nojoumian/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/nojoumian/images/nojoumian.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Computer Science",
+        "school": "University of Waterloo, Canada"
+      },
+      { "type": "msc",
+        "area": "Computer Science",
+        "school": "University of Ottawa, ON, Canada"
+      },
+      { "type": "bsc",
+        "area": "Computer Engineering",
+        "school": "IAU, IR"
+      }
+    ],
+    "interests": ["Security, Privacy and Trust", " AI and Autonomous Systems", " Human-Autonomy Interaction", " Applied Cryptography"]
+  },
+  { "name": "Pados, Dimitris",
+    "title": "Professor and I-SENSE Fellow | I-SENSE Fellow, Charles E. Schmidt Eminent Scholar in Engineering",
+    "email": "dpados@fau.edu",
+    "website": "https://faculty.eng.fau.edu/dimitrispados/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/pados/images/pados.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Electrical Engineering",
+        "school": "University of Virginia"
+      },
+      { "type": "msc",
+        "area": "Computer Engineering and Science",
+        "school": "University of Patras, Greece"
+      },
+      { "type": "bsc",
+        "area": "Computer Engineering and Science",
+        "school": "University of Patras, Greece"
+      }
+    ],
+    "interests": ["Cognitive Software-defined Radios and Networks", "Interference Avoiding Networking", "Secure Wireless Communications", "Underwater Cognitive Hi-rate/Long-distance Acoustic Communications", "Autonomous/Unmanned Aerial/Ground/Underwater System Communications", "L1-norm Principal-component Analysis (L1-PCA)", "Robust Feature Extraction from Faulty Data Sets", "Digital Data Embedding/Hiding", "Compressed-sensed (Multi-view) Imaging and Video", "Localization in GPS-less Environments", "Ad-hoc/Dynamic Geometry Beamforming and Array Radar", "Communications-Radar Coexistence"]
+  },
+  { "name": "Pandya, Abhijit",
+    "title": "Professor",
+    "email": "pandya@fau.edu",
+    "website": "https://www.fau.edu/engineering/directory/faculty/pandya/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/pandya/images/pandya.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "",
+        "school": "Syracuse University"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Neural Network Algorithms", "VLSI Implementation of Neural Networks", "Low Power CMOS Circuit Design", "Digital Circuit Design", "Layout and Verification"]
+  },
+  { "name": "Pashaie, Ramin",
+    "title": "Associate Professor and I-SENSE Fellow",
+    "email": "rpashaie@fau.edu",
+    "website": "https://www.fau.edu/engineering/directory/faculty/pashaie/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/pashaie/images/ramin-pashaie.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Electrical and Systems Engineering",
+        "school": "University of Pennsylvania"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Electronics", "Electromagnetics", "Optics and photonics and their applications in neuroscience"]
+  },
+  { "name": "Pavlovic, Mirjana",
+    "title": "Instructor",
+    "email": "mpavlovi@fau.edu",
+    "website": "https://www.linkedin.com/in/mirjana-pavlovic-0262411/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/pavlovic/images/pavlovic.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "hematology/experimental immunology, biochemistry",
+        "school": "University of Belgrade, Yugoslavia"
+      },
+      { "type": "msc/md",
+        "area": "hematology/experimental immunology, biochemistry",
+        "school": "University of Belgrade, Yugoslavia"
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Bioengineering(stem cells and cancer stem cells)", "Translating Lab Data to the Clinical Arena", "Autoimmune Diseases-Lupus Anti-DNA Antibodies", "Autism"]
+  },
+  { "name": "Peterson, Vance",
+    "title": "Senior Instructor",
+    "email": "vpeterso@fau.edu",
+    "website": "https://www.fau.edu/engineering/directory/faculty/peterson/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/peterson/images/peterson.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "",
+        "school": "Florida Atlantic University"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["RF/IF Circuits", "RF Mixer Circuits", "RF Amplifiers", "Communication Devices", "Nondestructive Testing"]
+  },
+  { "name": "Petrie, Maria Larrondo",
+    "title": "Professor",
+    "email": "petrie@fau.edu",
+    "website": "https://www.linkedin.com/in/maria-mercedes-larrondo-petrie-022b4/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/petrie/images/petrie.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "computer engineering",
+        "school": "Florida Atlantic University"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "mathematics",
+        "school": "barry university"
+      }
+    ],
+    "interests": ["RF/IF Circuits", "RF Mixer Circuits", "RF Amplifiers", "Communication Devices", "Nondestructive Testing"]
+  },
+  { "name": "Ranji, Mahsa",
+    "title": "Associate Professor and I-SENSE Fellow",
+    "email": "mranji@fau.edu",
+    "website": "https://www.linkedin.com/in/dr-mahsa-ranji-019b001/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/ranji/images/mahsa-ranji.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "electrical engineering, biomedical optics",
+        "school": "University of Pennsylvania"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "electrical engneering",
+        "school": "sharif university of technology"
+      }
+    ],
+    "interests": ["Biomedical Optics", "Bio-instrumentation", "Optics and Photonics"]
+  },
+  { "name": "Raviv, Daniel",
+    "title": "Professor",
+    "email": "ravivd@fau.edu",
+    "website": "https://www.fau.edu/engineering/directory/faculty/raviv/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/raviv/images/raviv.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "",
+        "school": "Case Western Reserve University"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Real-Time Vision-Based Robotic Systems", "Intelligent Transportation Systems", "Driver-less Cars", "Creative, Innovative and Inventive Thinking"]
+  },
+  { "name": "Roth, Zvi",
+    "title": "Professor and Graduate Advisor",
+    "email": "rothz@fau.edu",
+    "website": "https://faculty.eng.fau.edu/rothz/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/roth/images/roth.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "electrical engineering",
+        "school": "Case Western Reserve University"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Robotics: Metrology, Calibration and Control", "Control Systems Design", "Analog Electronic Circuits Design", "Systems Biology: Modeling and Control"]
+  },
+  { "name": "Sklivanitis, George",
+    "title": "Schmidt Research Assistant Professor & I-SENSE Fellow",
+    "email": "gsklivanitis@fau.edu",
+    "website": "https://www.researchgate.net/profile/Georgios-Sklivanitis",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/sklivanitis/images/sklivanitis.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Electrical Engineering",
+        "school": "University at Buffalo"
+      },
+      { "type": "msc",
+        "area": "Electronic and Computer Engineering",
+        "school": "Technical University of Crete, Greece"
+      },
+      { "type": "bsc",
+        "area": "Electronic and Computer Engineering",
+        "school": "Technical University of Crete, Greece"
+      }
+    ],
+    "interests": ["Autonomous Radios", "Ocean IoT", "Networked AI", "Connected Robotics"]
+  },
+  { "name": "Sorgente, Tami",
+    "title": "University Instructor",
+    "email": "tsorgent@fau.edu",
+    "website": "https://faculty.eng.fau.edu/tsorgent/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/sorgente/images/sorgente.jpg",
+    "degrees": [
+      { "type": "msc",
+        "area": "computer science",
+        "school": "Florida Atlantic University"
+      },
+      { "type": "bfa",
+        "area": "Fine/Studio Arts, General",
+        "school": "Florida Atlantic University"
+      }
+    ],
+    "interests": ["Computer Animation", "Data Security", "Software Engineering", "Healthcare Information Management"]
+  },
+  { "name": "Taebi, Sareh",
+    "title": "Instructor",
+    "email": "staebi@fau.edu",
+    "website": "https://www.fau.edu/engineering/directory/faculty/taebi/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/taebi/images/sareh-taebi-thumbnail.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "",
+        "school": "University of Waterloo"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Integrated Photonics", "Optoelectronics", "Optical Networks", "Quantum Optics", "Photonics"]
+  },
+  { "name": "Tang, Yufei",
+    "title": "Associate Professor & I-SENSE Fellow",
+    "email": "tangy@fau.edu",
+    "website": "https://faculty.eng.fau.edu/tangy/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/tang/images/tang.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Electrical Engineering",
+        "school": "University of Rhode Island (URI)"
+      },
+      { "type": "msc",
+        "area": "power systems",
+        "school": "hohai university"
+      },
+      { "type": "bsc",
+        "area": "electrical and electronics engineering",
+        "school": "hohai university"
+      }
+    ],
+    "interests": ["Machine Learning and Data Mining", "Graph Representation Learning", "Marine Renewable Energy", "Cyber-Physical Systems"]
+  },
+  { "name": "Wang, Dingding",
+    "title": "Senior Instructor",
+    "email": "wangd@fau.edu",
+    "website": "https://faculty.eng.fau.edu/wangd/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/wang-d/images/wang-d.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Computer Science",
+        "school": "Florida International University"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "Computer Science",
+        "school": "University of Science and Technology of China"
+      }
+    ],
+    "interests": ["Data Mining and Machine Learning", "Information Retrieval", "Text Mining", "Social Media Analytics"]
+  },
+  { "name": "Yang, KwangSoo",
+    "title": "Associate Professor",
+    "email": "yangk@fau.edu",
+    "website": "https://faculty.eng.fau.edu/yangk/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/yang/images/yang.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Computer Science",
+        "school": "University of Minnesota"
+      },
+      { "type": "msc",
+        "area": "Computer Science",
+        "school": "University of Minnesota"
+      },
+      { "type": "bsc",
+        "area": "Electricity Engineering",
+        "school": "Yonsei University (South Korea)"
+      }
+    ],
+    "interests": ["Spatial Database", "Spatial Data Mining", "Transportation Science"]
+  },
+  { "name": "Zhong, Xiangnan",
+    "title": "Associate Professor",
+    "email": "xzhong@fau.edu",
+    "website": "https://sites.google.com/view/xiangnan-zhong",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/zhong/images/photo-xiangnan-zhong.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Electrical, Computer, and Biomedical Engineering",
+        "school": "University of Rhode Island"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Cyber-Physical Systems", "Computational Intelligence", "Intelligent Control, Adaptive Control and Autonomous Systems", "Networked Systems and Multi-Agent Systems", "Robotics"]
+  },
+  { "name": "Zhu, Xingquan (Hill)",
+    "title": "Professor",
+    "email": "xzhu3@fau.edu",
+    "website": "https://www.cse.fau.edu/~xqzhu/index.html",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/zhu/images/zhu.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Computer Science",
+        "school": "Fudan University, China"
+      },
+      { "type": "msc",
+        "area": "",
+        "school": ""
+      },
+      { "type": "bsc",
+        "area": "",
+        "school": ""
+      }
+    ],
+    "interests": ["Data Mining and Machine Learning", "Information Retrieval", "Bioinformatics"]
+  },
+  { "name": "Zhuang, Hanqi",
+    "title": "Chair and Professor",
+    "email": "zhuang@fau.edu",
+    "website": "https://www.fau.edu/engineering/directory/faculty/zhuang/",
+    "picture": "https://www.fau.edu/engineering/directory/faculty/zhuang/images/zhuang1.jpg",
+    "degrees": [
+      { "type": "phd",
+        "area": "Electrical Engineering",
+        "school": "Florida Atlantic University"
+      },
+      { "type": "msc",
+        "area": "Electrical Engineering",
+        "school": "Florida Atlantic University"
+      },
+      { "type": "bsc",
+        "area": "Electrical Engineering",
+        "school": "Shanghai University"
+      }
+    ],
+    "interests": ["Signal Processing and Machine Learning", "Robotics and Computer Vision", "Biomedical Applications: Cancer Diagnosis, Seizure Detection, Emotion Detection and Classification", "Marine Animal Sound Detection and Classification"]
+  }
+]

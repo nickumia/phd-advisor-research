@@ -1,0 +1,7 @@
+_site
+node_modules
+.parcel-cache
+dist
+*.swp
+src/data/interests.json
+src/data/connected_interests.json
