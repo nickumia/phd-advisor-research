@@ -1,4 +1,8 @@
 
+import nltk
+nltk.download('wordnet')
+nltk.download('omw-1.4')
+
 from nlp.processing.inputs import BasicText
 from nlp.processing.corpus.representativeness import occurences
 from nltk.stem import WordNetLemmatizer
