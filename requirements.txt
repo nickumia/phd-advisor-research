@@ -1,1 +1,2 @@
 nlp @ git+https://github.com/nickumia/nlp.git@main#egg=nlp
+nltk

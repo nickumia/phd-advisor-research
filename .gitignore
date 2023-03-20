@@ -5,5 +5,3 @@ dist
 *.swp
 src/data/interests.json
 src/data/connected_interests.json
-src/data/connected_interests_x.json
-src/data/connected_interests_y.json
