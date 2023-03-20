@@ -13,15 +13,3 @@ pagination:
 <div class="container">
   <canvas id="interestsMatrixChart"></canvas>
 </div>
-
-
-<div class="container">
-  <ul>
-    <ul>
-      {%- for item in pagination.items %}
-        <li>{{ item.topic }}</li>
-        <li>{{ item.people|length }}</li>
-      {% endfor -%}
-    </ul>
-  </ul>
-</div>

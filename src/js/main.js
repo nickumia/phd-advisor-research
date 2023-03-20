@@ -49,7 +49,7 @@ const config_individual = {
       x: {
         type: 'category',
         labels: cdatas.names,
-        offset: false,
+        offset: true,
         ticks: {
           display: true,
           autoSkip: false
@@ -61,7 +61,7 @@ const config_individual = {
       y: {
         type: 'category',
         labels: cdatas.topics,
-        offset: false,
+        offset: true,
         ticks: {
           display: true,
           autoSkip: false
