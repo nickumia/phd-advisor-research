@@ -12,7 +12,9 @@ import cdatas from '../data/connected_interests.json';
 const config_aggregate = {
   type: 'polarArea',
   data: datas,
-  options: {},
+  options: {
+    responsive: true,
+  }
 };
 
 
@@ -31,6 +33,7 @@ const config_individual = {
     }]
   },
   options: {
+    responsive: true,
     plugins: {
       legend: false,
       tooltip: {
