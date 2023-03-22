@@ -2,7 +2,9 @@
   { "name": "Aalo, Valentine",
     "title": "Professor",
     "email": "aalo@fau.edu",
+    "website": "https://www.fau.edu/engineering/directory/faculty/aalo/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/aalo/images/aalo.jpg",
+    "google_scholar_id": "_7UysXEAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "electrical engineering",
@@ -24,6 +26,7 @@
     "email": "aagarwa2@fau.edu",
     "website": "https://faculty.eng.fau.edu/ankur/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/agarwal/images/agarwal.jpg",
+    "google_scholar_id": "lHvOG4EAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "computer engineering",
@@ -45,6 +48,7 @@
     "email": "alhalabi@fau.edu",
     "website": "https://www.linkedin.com/in/bassem-alhalabi-6945327/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/alhalabi/images/alhalabi.jpg",
+    "google_scholar_id": "O72412cAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "computer engineering",
@@ -66,6 +70,7 @@
     "email": "wasghar@fau.edu",
     "website": "https://faculty.eng.fau.edu/asghar/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/asghar/images/asghar.jpg",
+    "google_scholar_id": "F_Cyxh0AAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "nano-biotechnology",
@@ -83,6 +88,7 @@
     "email": "rassis@fau.edu",
     "website": "http://assisgroup.fau.edu/index.html",
     "picture": "https://www.fau.edu/engineering/directory/faculty/assis/images/photo-raquel-assis.jpg",
+    "google_scholar_id": "MjyukQkAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "bioinformatics",
@@ -100,6 +106,7 @@
     "email": "razarderakhsh@fau.edu",
     "website": "https://faculty.eng.fau.edu/azarderakhsh/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/azarderakhsh/images/azarderakhsh.jpg",
+    "google_scholar_id": "zsnXFgwAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Computer Engineering",
@@ -121,6 +128,7 @@
     "email": "bagby@fau.edu",
     "website": "https://www.linkedin.com/in/jonathan-bagby-0368114/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/bagby/images/bagby.jpg",
+    "google_scholar_id": "",
     "degrees": [
       { "type": "phd",
         "area": "Electrical Engineering",
@@ -142,6 +150,7 @@
     "email": "sbatalama@fau.edu",
     "website": "https://www.linkedin.com/in/stella-batalama-32406280/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/batalama/images/batalama.jpg",
+    "google_scholar_id": "_Ol3oWwAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Electrical Engineering",
@@ -163,6 +172,7 @@
     "email": "lbullard@fau.edu",
     "website": "https://www.fau.edu/engineering/directory/faculty/bullard/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/bullard/images/bullard.jpg",
+    "google_scholar_id": "-d16OzEAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "",
@@ -184,6 +194,7 @@
     "email": "icardei@fau.edu",
     "website": "https://www.linkedin.com/in/icardei/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/cardei-i/images/cardei-i.jpg",
+    "google_scholar_id": "6MZuZB4AAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "computer science",
@@ -205,6 +216,7 @@
     "email": "mcardei@fau.edu",
     "website": "https://www.fau.edu/engineering/eecs/faculty/mcardei/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/cardei-m/images/cardei-m.jpg",
+    "google_scholar_id": "TJ_YumoAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "computer science",
@@ -226,6 +238,7 @@
     "email": "degroff@fau.edu",
     "website": "https://www.fau.edu/engineering/directory/faculty/degroff/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/degroff/images/degroff.jpg",
+    "google_scholar_id": "",
     "degrees": [
       { "type": "phd",
         "area": "",
@@ -247,6 +260,7 @@
     "email": "mdegiorg@fau.edu",
     "website": "http://degiorgiogroup.fau.edu/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/degiorgio/images/mike-degiorgio.jpg",
+    "google_scholar_id": "psdJNJMAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "bioinformatics",
@@ -268,6 +282,7 @@
     "email": "erdol@fau.edu",
     "website": "https://faculty.eng.fau.edu/erdol/about/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/erdol/images/erdol.jpg",
+    "google_scholar_id": "bFiXEP8AAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "electrical, electronics and communications of engineering",
@@ -289,6 +304,7 @@
     "email": "bfurht@fau.edu",
     "website": "https://faculty.eng.fau.edu/bfurht/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/furht/images/furht.jpg",
+    "google_scholar_id": "z1BEGM8AAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "electrical and computer engineering",
@@ -310,6 +326,7 @@
     "email": "bghoraani@fau.edu",
     "website": "http://biomedsignal.com/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/ghoraani/images/ghoraani.jpg",
+    "google_scholar_id": "ssLvFH8AAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Electrical and Computer Engineering",
@@ -331,6 +348,7 @@
     "email": "jhallstrom@fau.edu",
     "website": "https://ieeexplore.ieee.org/author/37267610700",
     "picture": "https://www.fau.edu/engineering/directory/faculty/hallstrom/images/hallstrom.jpg",
+    "google_scholar_id": "",
     "degrees": [
       { "type": "phd",
         "area": "computer and information science",
@@ -352,6 +370,7 @@
     "email": "shihong@fau.edu",
     "website": "https://faculty.eng.fau.edu/shihong/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/huang/images/huang.jpg",
+    "google_scholar_id": "c2XTHWgAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "computer science",
@@ -373,6 +392,7 @@
     "email": "ilyas@fau.edu",
     "website": "https://www.linkedin.com/in/mohammad-ilyas-7978a325/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/ilyas/images/ilyas.jpg",
+    "google_scholar_id": "ks65XMQAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Electrical Engineering",
@@ -394,6 +414,7 @@
     "email": "hari.kalva@fau.edu",
     "website": "https://www.cse.fau.edu/~hari/index.html",
     "picture": "https://www.fau.edu/engineering/directory/faculty/kalva/images/kalva.jpg",
+    "google_scholar_id": "FO1NbXUAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "",
@@ -415,6 +436,7 @@
     "email": "khoshgof@fau.edu",
     "website": "https://www.fau.edu/engineering/directory/faculty/khoshgoftaar/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/khoshgoftaar/images/taghi-k.jpg",
+    "google_scholar_id": "-PgNSCAAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "",
@@ -436,6 +458,7 @@
     "email": "fenghao.liu@fau.edu",
     "website": "https://faculty.eng.fau.edu/fenghao/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/liu/images/liu.jpg",
+    "google_scholar_id": "vvWcl-wAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Computer Science",
@@ -457,6 +480,7 @@
     "email": "mahgoubi@fau.edu",
     "website": "https://smc.eng.fau.edu/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/mahgoub/images/mahgoub.jpg",
+    "google_scholar_id": "cO_-CnIAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "",
@@ -478,6 +502,7 @@
     "email": "omarques@fau.edu",
     "website": "https://www.linkedin.com/in/ogemarques/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/marques/images/marques.jpg",
+    "google_scholar_id": "ZgWULzYAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "computer engineering",
@@ -499,6 +524,7 @@
     "email": "neelakan@fau.edu",
     "website": "https://www.linkedin.com/in/perambur-s-neelakanta-b4850719/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/neelakanta/images/neelakanta.jpg",
+    "google_scholar_id": "",
     "degrees": [
       { "type": "phd",
         "area": "",
@@ -520,6 +546,7 @@
     "email": "zhenni@fau.edu",
     "website": "https://www.fau.edu/engineering/directory/faculty/ni/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/ni/images/photo-zhen-ni.jpg",
+    "google_scholar_id": "ehfAZpwAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "",
@@ -541,6 +568,7 @@
     "email": "mnojoumian@fau.edu",
     "website": "https://faculty.eng.fau.edu/nojoumian/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/nojoumian/images/nojoumian.jpg",
+    "google_scholar_id": "6TVu590AAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Computer Science",
@@ -562,6 +590,7 @@
     "email": "dpados@fau.edu",
     "website": "https://faculty.eng.fau.edu/dimitrispados/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/pados/images/pados.jpg",
+    "google_scholar_id": "tczyXJUAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Electrical Engineering",
@@ -583,6 +612,7 @@
     "email": "pandya@fau.edu",
     "website": "https://www.fau.edu/engineering/directory/faculty/pandya/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/pandya/images/pandya.jpg",
+    "google_scholar_id": "MNcOWcsAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "",
@@ -604,6 +634,7 @@
     "email": "rpashaie@fau.edu",
     "website": "https://www.fau.edu/engineering/directory/faculty/pashaie/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/pashaie/images/ramin-pashaie.jpg",
+    "google_scholar_id": "XJ4RwcwAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Electrical and Systems Engineering",
@@ -625,6 +656,7 @@
     "email": "mpavlovi@fau.edu",
     "website": "https://www.linkedin.com/in/mirjana-pavlovic-0262411/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/pavlovic/images/pavlovic.jpg",
+    "google_scholar_id": "rYqwAb8AAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "hematology/experimental immunology, biochemistry",
@@ -646,6 +678,7 @@
     "email": "vpeterso@fau.edu",
     "website": "https://www.fau.edu/engineering/directory/faculty/peterson/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/peterson/images/peterson.jpg",
+    "google_scholar_id": "",
     "degrees": [
       { "type": "phd",
         "area": "",
@@ -667,6 +700,7 @@
     "email": "petrie@fau.edu",
     "website": "https://www.linkedin.com/in/maria-mercedes-larrondo-petrie-022b4/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/petrie/images/petrie.jpg",
+    "google_scholar_id": "kXV-iEIAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "computer engineering",
@@ -688,6 +722,7 @@
     "email": "mranji@fau.edu",
     "website": "https://www.linkedin.com/in/dr-mahsa-ranji-019b001/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/ranji/images/mahsa-ranji.jpg",
+    "google_scholar_id": "Z8wbkKIAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "electrical engineering, biomedical optics",
@@ -709,6 +744,7 @@
     "email": "ravivd@fau.edu",
     "website": "https://www.fau.edu/engineering/directory/faculty/raviv/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/raviv/images/raviv.jpg",
+    "google_scholar_id": "jXhnWx0AAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "",
@@ -730,6 +766,7 @@
     "email": "rothz@fau.edu",
     "website": "https://faculty.eng.fau.edu/rothz/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/roth/images/roth.jpg",
+    "google_scholar_id": "4GjqcEAAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "electrical engineering",
@@ -751,6 +788,7 @@
     "email": "gsklivanitis@fau.edu",
     "website": "https://www.researchgate.net/profile/Georgios-Sklivanitis",
     "picture": "https://www.fau.edu/engineering/directory/faculty/sklivanitis/images/sklivanitis.jpg",
+    "google_scholar_id": "19sT0CkAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Electrical Engineering",
@@ -772,6 +810,7 @@
     "email": "tsorgent@fau.edu",
     "website": "https://faculty.eng.fau.edu/tsorgent/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/sorgente/images/sorgente.jpg",
+    "google_scholar_id": "",
     "degrees": [
       { "type": "msc",
         "area": "computer science",
@@ -789,6 +828,7 @@
     "email": "staebi@fau.edu",
     "website": "https://www.fau.edu/engineering/directory/faculty/taebi/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/taebi/images/sareh-taebi-thumbnail.jpg",
+    "google_scholar_id": "-1YY2mgAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "",
@@ -810,6 +850,7 @@
     "email": "tangy@fau.edu",
     "website": "https://faculty.eng.fau.edu/tangy/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/tang/images/tang.jpg",
+    "google_scholar_id": "tkzHKDoAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Electrical Engineering",
@@ -831,6 +872,7 @@
     "email": "wangd@fau.edu",
     "website": "https://faculty.eng.fau.edu/wangd/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/wang-d/images/wang-d.jpg",
+    "google_scholar_id": "c6PLjO4AAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Computer Science",
@@ -852,6 +894,7 @@
     "email": "yangk@fau.edu",
     "website": "https://faculty.eng.fau.edu/yangk/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/yang/images/yang.jpg",
+    "google_scholar_id": "ou-o00sAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Computer Science",
@@ -873,6 +916,7 @@
     "email": "xzhong@fau.edu",
     "website": "https://sites.google.com/view/xiangnan-zhong",
     "picture": "https://www.fau.edu/engineering/directory/faculty/zhong/images/photo-xiangnan-zhong.jpg",
+    "google_scholar_id": "pdzma9AAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Electrical, Computer, and Biomedical Engineering",
@@ -894,6 +938,7 @@
     "email": "xzhu3@fau.edu",
     "website": "https://www.cse.fau.edu/~xqzhu/index.html",
     "picture": "https://www.fau.edu/engineering/directory/faculty/zhu/images/zhu.jpg",
+    "google_scholar_id": "YhKZXtcAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Computer Science",
@@ -915,6 +960,7 @@
     "email": "zhuang@fau.edu",
     "website": "https://www.fau.edu/engineering/directory/faculty/zhuang/",
     "picture": "https://www.fau.edu/engineering/directory/faculty/zhuang/images/zhuang1.jpg",
+    "google_scholar_id": "GaLP1jkAAAAJ",
     "degrees": [
       { "type": "phd",
         "area": "Electrical Engineering",
