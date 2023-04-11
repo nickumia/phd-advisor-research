@@ -9,6 +9,11 @@ function eleventyConfig(config) {
 
 	// Minify HTML
 	const isProduction = process.env.ELEVENTY_ENV === "production";
+  if (isProduction) {
+    pathprefix = '/phd-advisor-research/'
+  } else {
+    pathprefix = '/'
+  }
 
 	var htmlMinify = function(value, outputPath) {
 		if (outputPath && outputPath.indexOf('.html') > -1) {
@@ -34,6 +39,7 @@ function eleventyConfig(config) {
 			includes: "includes",
 			data: "data",
 		},
+    pathPrefix: pathprefix,
 		templateFormats: ["html", "njk", "md", "11ty.js"],
 		htmlTemplateEngine: "njk",
 		markdownTemplateEngine: "njk",
