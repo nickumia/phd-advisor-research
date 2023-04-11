@@ -37,6 +37,7 @@ jobs:
         run: |
           npm install
           npm run build
+          cp src/data dist/data -r
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
