@@ -7,8 +7,6 @@ Chart.register(MatrixController, MatrixElement);
 import datas from '../data/interests.json';
 import cdatas from '../data/connected_interests.json';
 
-module.exports = {};
-
 
 // Polar Chart showing frequency of topics
 const config_aggregate = {
